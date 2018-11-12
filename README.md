@@ -1,1 +1,2 @@
-- An AR prototype made by.[@tamrrat](https://twitter.com/tamrrat)
+- An AR prototype made by [@tamrrat](https://twitter.com/tamrrat)
+- Open the .isproj file in [Snapchat Lens Studio ](https://lensstudio.snapchat.com/guides/getting-started/) to get started!
